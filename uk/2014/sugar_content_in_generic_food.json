@@ -1,0 +1,150 @@
+[
+  {
+    "product": {
+      "name": "Mars chocolate bar",
+      "pack_size": {
+        "unit_of_measure": "grams",
+        "value": 51
+      },
+      "serving_size": {
+        "unit_of_measure": "grams",
+        "value": 51
+      },
+      "sugar_per_portion": {
+        "unit_of_measure": "grams",
+        "value": 30.4
+      },
+      "teaspoons_of_sugar_per_portion": {
+        "conversion": "4g/teaspoon",
+        "value": 8
+      },
+      "kcal_per_portion": {
+        "unit_of_measure": "kcal",
+        "value": 230
+      },
+      "images": [
+        "http://upload.wikimedia.org/wikipedia/en/6/65/Mars-Bar-UK-Wrapper-Small.jpg"
+      ]
+    },
+    "meta_information": {
+      "editings": {
+        "created": "2014-02-13T01:26:52.277Z"
+      },
+      "source": {
+        "type": "web_url",
+        "value": "http://mobile.confectionerynews.com/Regulation-Safety/Action-on-Sugar-Campaign-forms-to-cut-sugar-in-confectionery"
+      }
+    }
+  },
+  {
+    "product": {
+      "name": "Cadbury Double Decker Chocolate Bar",
+      "pack_size": {
+        "unit_of_measure": "grams",
+        "value": 54.5
+      },
+      "serving_size": {
+        "unit_of_measure": "grams",
+        "value": 54.5
+      },
+      "sugar_per_portion": {
+        "unit_of_measure": "grams",
+        "value": 30
+      },
+      "teaspoons_of_sugar_per_portion": {
+        "conversion": "4g/teaspoon",
+        "value": 8
+      },
+      "kcal_per_portion": {
+        "unit_of_measure": "kcal",
+        "value": 250
+      },
+      "images": [
+        "http://upload.wikimedia.org/wikipedia/en/3/3b/Double-Decker-Wrapper-Small.jpg"
+      ]
+    },
+    "meta_information": {
+      "editings": {
+        "created": "2014-02-13T01:26:52.277Z"
+      },
+      "source": {
+        "type": "web_url",
+        "value": "http://mobile.confectionerynews.com/Regulation-Safety/Action-on-Sugar-Campaign-forms-to-cut-sugar-in-confectionery"
+      }
+    }
+  },
+  {
+    "product": {
+      "name": "Nestlé Aero Bubbly Chocolate Bars, Peppermint Mint",
+      "pack_size": {
+        "unit_of_measure": "grams",
+        "value": 40
+      },
+      "serving_size": {
+        "unit_of_measure": "grams",
+        "value": 40
+      },
+      "sugar_per_portion": {
+        "unit_of_measure": "grams",
+        "value": 24.9
+      },
+      "teaspoons_of_sugar_per_portion": {
+        "conversion": "4g/teaspoon",
+        "value": 6
+      },
+      "kcal_per_portion": {
+        "unit_of_measure": "kcal",
+        "value": 221
+      },
+      "images": [
+        "http://upload.wikimedia.org/wikipedia/en/a/af/Aero-Mint-Wrapper-Small.jpg"
+      ]
+    },
+    "meta_information": {
+      "editings": {
+        "created": "2014-02-13T01:26:52.277Z"
+      },
+      "source": {
+        "type": "web_url",
+        "value": "http://mobile.confectionerynews.com/Regulation-Safety/Action-on-Sugar-Campaign-forms-to-cut-sugar-in-confectionery"
+      }
+    }
+  },
+  {
+    "product": {
+      "name": "Nestlé Rowntree's Jelly Tots, Fruit Sugar Sweets Sharing Bag",
+      "pack_size": {
+        "unit_of_measure": "grams",
+        "value": 160
+      },
+      "serving_size": {
+        "unit_of_measure": "number of sweets",
+        "value": 12
+      },
+      "sugar_per_portion": {
+        "unit_of_measure": "grams",
+        "value": 6.9
+      },
+      "teaspoons_of_sugar_per_portion": {
+        "conversion": "4g/teaspoon",
+        "value": 2
+      },
+      "kcal_per_portion": {
+        "unit_of_measure": "kcal",
+        "value": 40
+      },
+      "images": [
+        "http://www.nestle.co.uk/asset-library/PublishingImages/Brands/Rowntrees/Rowntrees_JellyTots.jpg"
+      ]
+    },
+    "meta_information": {
+      "editings": {
+        "created": "2014-02-13T01:26:52.277Z"
+      },
+      "source": {
+        "type": "web_url",
+        "value": "http://mobile.confectionerynews.com/Regulation-Safety/Action-on-Sugar-Campaign-forms-to-cut-sugar-in-confectionery"
+      }
+    }
+  }
+]
